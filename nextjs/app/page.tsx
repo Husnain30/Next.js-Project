@@ -15,9 +15,9 @@ export default function Home() {
         <input
         type="text"
         placeholder="Enter Your Email"
-        className="input input-bordered input-secondary lg:pl-52 lg:pr-32 lg:mx-3 sm:px-40 bg-white lg:my-9 sm:my-7   "
+        className="input input-bordered input-secondary lg:pl-52 lg:pr-32 lg:mx-3 sm:px-40 md:px-24 bg-white lg:my-9 sm:my-7   "
       />
-      <button className="btn btn-active btn-secondary md:mx-2  ">SignUp</button>
+      <button className="btn btn-active btn-secondary md:mx-2 lg:mx-0 ">SignUp</button>
       <button className="btn btn-active btn-secondary sm:mx-2 md:hidden lg:hidden">Login</button>
       </div>
       </div>
